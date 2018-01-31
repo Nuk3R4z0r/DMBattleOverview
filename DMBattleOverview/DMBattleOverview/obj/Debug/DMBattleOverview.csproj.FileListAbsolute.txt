@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\bin\Debug\DMBattleOverview.exe.config
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\bin\Debug\DMBattleOverview.exe
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\bin\Debug\DMBattleOverview.pdb
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\obj\Debug\DMBattleOverview.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\obj\Debug\DMBattleOverview.Form1.resources
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\obj\Debug\DMBattleOverview.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\obj\Debug\DMBattleOverview.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\obj\Debug\DMBattleOverview.exe
+C:\Users\Kevin\Documents\GitHub\DMBattleOverview\DMBattleOverview\DMBattleOverview\obj\Debug\DMBattleOverview.pdb
